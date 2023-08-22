@@ -1,20 +1,22 @@
 # site settings
-
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Alireza Farokhi
+description: Welcome to my portfolio website
+email: iqstudiotehran@gmail.com
+taglong: Alireza Farokhi's online CV
+tagshort: Alireza Farokhi
+url: "https://alireza-farokhi.github.io/"
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+twitter_username: alirezFar
+github_username:  alireza-farokhi
+linkedin_username: alireza-farokhi
+stackoverflow_username: 8045491/alireza-farokhi
 
 # author settings
-
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Alireza Farokhi
+  email: iqstudiotehran@gmail.com
+photo: /assets/jpg/Alireza-Farokhi.jpg
 
 # build settings
 
