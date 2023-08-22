@@ -46,8 +46,8 @@ These are some of the key skills I've developed throughout my career:
 - JavaScript (Vue.js, Node.js)
 - PHP (Laravel)
 - Microservices Architecture
-- HTML/CSS
-- MySQL
+- HTML/CSS (Sass, SCSS)
+- Databases (MySQL, PostgreSQL)
 - Redis
 - Linux
 - Docker
