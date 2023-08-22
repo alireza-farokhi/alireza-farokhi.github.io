@@ -42,17 +42,16 @@ Throughout my career, I've contributed to various projects and honed my skills. 
 
 These are some of the key skills I've developed throughout my career:
 
-- Java
+- Java (Spring Framework)
 - JavaScript (Vue.js, Node.js)
 - PHP (Laravel)
-- Spring Framework
 - Microservices Architecture
 - HTML/CSS
 - MySQL
 - Redis
 - Linux
 - Docker
-- Backend Development
+- API Development
 
 
 # Let's get in touch
