@@ -7,11 +7,11 @@
     <meta name="robots" content="index, follow">
     
     <!-- Advanced SEO Tags -->
-    <meta name="canonical" href="https://alireza-farokhi.github.io">
+    <meta name="canonical" href="{{ site.url }}">
     <meta name="og:title" content="Alireza Farokhi - Software Engineer">
     <meta name="og:description" content="Explore Alireza Farokhi's portfolio and learn about his expertise in software engineering.">
-    <meta name="og:image" content="https://yourwebsite.com/images/your-image.jpg">
-    <meta name="og:url" content="https://alireza-farokhi.github.io">
+    <meta name="og:image" content="{{ site.url }}/assets/jpg/Alireza-Farokhi.jpg">
+    <meta name="og:url" content="{{ site.url }}">
     <meta name="og:site_name" content="Alireza Farokhi's Personal Website">
     <meta name="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
@@ -28,5 +28,5 @@
   <link rel="manifest" href="{{ '/assets/site.webmanifest' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ 'atom.xml' | relative_url }}">
 
-  {% seo title=false %}
+  <!-- {% seo title=false %} -->
 </head>
