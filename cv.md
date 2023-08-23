@@ -31,11 +31,11 @@ I am a dynamic and innovative software engineer based in London, UK, driven by a
 #### **Quant** - Full Stack Software Engineer
 ##### <small> 2021 - now </small>
 
-At Quant Network Ltd, I played a pivotal role in building Quant Connect, a web application for Quant's Overledger APIs. My responsibilities included:
+In my position at Quant Network LTD, I have been responsible for building interactive web apps for the company's core product called Overledger. Using Java/Spring Boot, JavaScript frameworks like Vue.js and Node.js, microservices, PHP framework Laravel, and other cutting-edge technologies, I've played a crucial role in helping blockchain developers and enterprise companies interact with the Overledger APIs. At Quant, we are unlocking the power of blockchain for everyone by delivering interoperable ecosystems and real-world solutions that simply work: lowering costs, enabling new business, and mitigating risk. My responsibilities included:
 
-- 🏗️ Developing robust microservices for user and role management.
-- 📈 Designing and implementing application management features for scalability.
-- 💼 Contributing to subscription management functionality for enhanced user experiences.
+- 🏗️ Developing robust microservices.
+- 📈 Designing and implementing features such as: user and role management, application management, Overedlger functionalities like Smart Contract token deployment and bridge.
+- 💼 Contributing to subscription management and poruchase journey functionality for enhanced user experiences.
 
 #### **Asre Danesh Afzar** - PHP Developer
 ##### <small> 2021 </small>
