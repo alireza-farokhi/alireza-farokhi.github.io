@@ -59,6 +59,8 @@ My journey began at iQStudio, a freelance web development team. Highlights of th
 - 🌟 Collaborating on national projects spanning diverse industries.
 - 🚀 Implementing cutting-edge web applications, delivering exceptional results.
 
+---
+
 ### **Skills and Expertise**
 
 - ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) Java (Spring Framework)
@@ -72,6 +74,7 @@ My journey began at iQStudio, a freelance web development team. Highlights of th
 - ![Docker](https://img.icons8.com/color/24/000000/docker.png) Docker
 - ![API Development](https://img.icons8.com/color/24/000000/api.png) API Development
 
+---
 
 ### **Get in Touch**
 
