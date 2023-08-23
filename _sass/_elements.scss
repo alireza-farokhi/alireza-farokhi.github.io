@@ -29,6 +29,20 @@ a.site-title {
     }
   }
 }
+.download-icon {
+  color: var(--color-heading);
+
+  &:focus,
+  &:hover {
+    cursor: pointer;
+    border: none;
+
+    svg circle,
+    svg path {
+      stroke-width: 0.1em;
+    }
+  }
+}
 
 .message {
   padding: 0.25em 1em;
