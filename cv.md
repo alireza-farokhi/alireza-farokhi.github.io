@@ -11,7 +11,8 @@ title: CV
 
 ## Unlocking Innovation Through Technology
 
-I am a dynamic and innovative software engineer based in London, UK, driven by a relentless passion for technology and its transformative power. My journey in the tech industry has been a quest to unlock innovation, solve complex challenges, and create real-world impact.
+I am a seasoned software engineer driven by a relentless passion for innovation. My journey in web development has not only equipped me with a deep understanding of the field but also honed my problem-solving skills. Collaborative by nature, I thrive in team environments, consistently delivering results that exceed expectations. My commitment to personal growth is unwavering, as I continuously enhance both my technical and interpersonal skills. I am excited to reflect on my career achievements and look forward to new opportunities to pioneer innovative web solutions.
+
 
 ### **Why Choose Me?**
 
@@ -26,42 +27,70 @@ I am a dynamic and innovative software engineer based in London, UK, driven by a
 
 --- 
 
-### **Professional Experience**
+## **Professional Experience**
+<br />
 
-#### **Quant** - Full Stack Software Engineer
-##### <small> 2021 - now </small>
+## Full Stack Software Engineer
+### **Quant** - <small>Mar 2023 - Present</small>
+
+
 
 In my position at Quant Network LTD, I have been responsible for building interactive web apps for the company's core product called Overledger. Using Java/Spring Boot, JavaScript frameworks like Vue.js and Node.js, microservices, PHP framework Laravel, and other cutting-edge technologies, I've played a crucial role in helping blockchain developers and enterprise companies interact with the Overledger APIs. At Quant, we are unlocking the power of blockchain for everyone by delivering interoperable ecosystems and real-world solutions that simply work: lowering costs, enabling new business, and mitigating risk. My responsibilities included:
 
-- 🏗️ Developing robust microservices.
-- 📈 Designing and implementing features such as: user and role management, application management, Overedlger functionalities like Smart Contract token deployment and bridge.
-- 💼 Contributing to subscription management and poruchase journey functionality for enhanced user experiences.
+- 🚀 Architected interactive web apps for the groundbreaking Overledger product.
+- 💡 Leveraged Java/Spring Boot, JavaScript (Vue.js, Node.js), microservices, and Laravel.
+- 🌐 Empowered blockchain developers and enterprises to seamlessly access Overledger APIs.
+- 🌟 Pioneering blockchain's transformative potential, lowering costs, and mitigating risks.
 
-#### **Asre Danesh Afzar** - PHP Developer
-##### <small> 2021 </small>
+<br />
+
+## Software Developer
+### **Quant** - <small>Sep 2021 - Mar 2023 (1 year 7 months)</small>
+- 🏗️ Developing robust microservices for user and role management.
+- 📈 Designing and implementing application management features for scalability.
+- 💼 Contributing to subscription management functionality for enhanced user experiences.
+- 🛠️ Designing & Developing user journeys for Smart contract token deployments and bridges.
+
+<br />
+
+## PHP Developer
+### **ADA** - <small>Jan 2021 - Aug 2021 (8 months)</small>
 During my tenure at Asre Danesh Afzar, I spearheaded web solutions for diverse industries, including IT training, e-banking, and app development. My contributions included:
 
-- 🚀 Leveraging PHP and Laravel framework to create high-impact web applications.
-- 🌐 Managing databases with precision using MySQL and Redis, optimizing performance.
+- 🚀 Engineered high-impact web applications for a diverse IT firm.
+- 💡 Expertly wielded PHP, Laravel, MySQL, and Redis to deliver top-tier results.
 
-#### **Nobaar** - Backend Developer
-##### <small> 2019 - 2020 </small>
+<br />
+
+## Back End Developer
+### **Nobaar** - <small>Jul 2019 - Nov 2020 (1 year 5 months)</small>
 At Nobaar, I helped transform the logistics industry as a Backend Developer. My achievements included:
 
-- 🌍 Gaining expertise in Linux and Docker for robust server-side operations.
-- 🚚 Contributing to the growth of the engineering team and the company's mission-driven success.
+- 🚀 Joined the formative days of a logistics startup, driving API design and application logic.
+- 💡 Cultivated mastery in Linux and Docker, contributing to the company's exponential growth.
 
-#### **iQStudio** - Web Developer
-##### <small> 2016 - 2020 </small>
+<br />
+
+## Freelance Web Developer
+### **iQStudio** - <small>Mar 2016 - Jan 2020 (3 years 11 months)</small>
 
 My journey began at iQStudio, a freelance web development team. Highlights of this chapter include:
 
-- 🌟 Collaborating on national projects spanning diverse industries.
-- 🚀 Implementing cutting-edge web applications, delivering exceptional results.
+- 🚀 Thrived in a dynamic freelance team, spearheading web projects across diverse industries.
+- 💡 Implementing cutting-edge web applications, delivering exceptional results.
 
 ---
 
-### **Skills and Expertise**
+## **Education**
+### *Islamic Azad University* - 2010 - 2015
+  - **Bachelor's degree, Information Technology**
+
+### Licenses & Certifications
+  - **Front End Libraries - freeCodeCamp**
+
+---
+
+## **Skills and Expertise**
 
 - ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) Java (Spring Framework)
 - ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript (Vue.js, Node.js)
@@ -76,7 +105,7 @@ My journey began at iQStudio, a freelance web development team. Highlights of th
 
 ---
 
-### **Get in Touch**
+## **Get in Touch**
 
 Ready to embark on a journey of innovation and excellence? I'd love to connect with you:
 
