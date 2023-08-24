@@ -52,6 +52,7 @@ These are some of the key skills I've developed throughout my career:
 - Linux
 - Docker
 - API Development
+- OutSystems
 
 
 # Let's get in touch

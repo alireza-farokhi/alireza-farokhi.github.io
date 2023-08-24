@@ -102,6 +102,7 @@ My journey began at iQStudio, a freelance web development team. Highlights of th
 - ![Linux](https://img.icons8.com/color/24/000000/linux.png) Linux
 - ![Docker](https://img.icons8.com/color/24/000000/docker.png) Docker
 - ![API Development](https://img.icons8.com/color/24/000000/api.png) API Development
+- ![OutSystems](https://img.icons8.com/emoji/24/hollow-red-circle-emoji.png) OutSystems
 
 ---
 
